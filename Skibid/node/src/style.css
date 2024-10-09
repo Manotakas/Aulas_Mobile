@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    display: flex;
+    font-size: 20pt;
+}
+
+#botao{
+    margin-left: 25%;
+    width: 200px;
+    height: 30px;
+}
+
+#centro{
+    background-color: gray;
+    border-radius: 5%;
+}
+
+#box{
+    width: 375px;
+    height: 30px;
+}
